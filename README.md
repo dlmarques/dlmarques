@@ -23,5 +23,5 @@
 
 **Web/Full Stack projects**
 
-[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/dlmarques/dlmarques.com)
+[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://www.dlmarques.com)
 [![Dental Booking](https://img.shields.io/badge/-🔧&nbsp;&nbsp;DentalBooking-000000?style=flat)](https://github.com/dlmarques/DentalBooking)
