@@ -28,4 +28,4 @@
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/dlmarques/dlmarques.com)
 [![Dental Booking](https://img.shields.io/badge/-🔧&nbsp;&nbsp;DentalBooking-000000?style=flat)](https://github.com/dlmarques/DentalBooking)
 [![GrowYourself](https://img.shields.io/badge/-🔧&nbsp;&nbsp;GrowYourself-000000?style=flat)](https://github.com/dlmarques/GrowYourself)
-[![EzLearn](https://img.shields.io/badge/-🔧&nbsp;&nbsp;GrowYourself-000000?style=flat)](https://github.com/dlmarques/ezlearn)
+[![EzLearn](https://img.shields.io/badge/-🔧&nbsp;&nbsp;EzLearn-000000?style=flat)](https://github.com/dlmarques/ezlearn)
