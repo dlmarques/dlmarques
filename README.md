@@ -31,4 +31,4 @@
 [![GrowYourself](https://img.shields.io/badge/-🔧&nbsp;&nbsp;GrowYourself-000000?style=flat)](https://github.com/dlmarques/GrowYourself)
 [![EzLearn](https://img.shields.io/badge/-🔧&nbsp;&nbsp;EzLearn-000000?style=flat)](https://github.com/dlmarques/ezlearn)
 
-<a href="https://app.daily.dev/dlmarques"><img src="https://api.daily.dev/devcards/ae5e8c26c3f247378f8f816617348ce2.png?r=dsd" width="400" alt="Daniel Marques's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/dlmarques/dlmarques/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
