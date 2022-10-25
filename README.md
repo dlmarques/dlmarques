@@ -27,7 +27,7 @@
 **Web/Full Stack projects**
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/dlmarques/dlmarques.com)
-[![Omenia](https://img.shields.io/badge/-🔧&nbsp;&nbsp;DentalBooking-000000?style=flat)](https://github.com/dlmarques/omenia)
+[![Omenia](https://img.shields.io/badge/-🔧&nbsp;&nbsp;Omenia-000000?style=flat)](https://github.com/dlmarques/omenia)
 [![EzLearn](https://img.shields.io/badge/-🔧&nbsp;&nbsp;EzLearn-000000?style=flat)](https://github.com/dlmarques/ezlearn)
 [![GrowYourself](https://img.shields.io/badge/-🔧&nbsp;&nbsp;GrowYourself-000000?style=flat)](https://github.com/dlmarques/GrowYourself)
 [![Dental Booking](https://img.shields.io/badge/-🔧&nbsp;&nbsp;DentalBooking-000000?style=flat)](https://github.com/dlmarques/DentalBooking)
