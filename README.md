@@ -13,6 +13,9 @@
 ### Main Skills
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,webpack,html,css,figma,nodejs,express,postgres,mysql,mongodb,aws,git,github,npm,postman,jest,androidstudio)](https://skillicons.dev)
 
+### Studying
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow)](https://skillicons.dev)
+
 **Web/Full Stack projects**
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/dlmarques/dlmarques.com)
