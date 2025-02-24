@@ -1,4 +1,4 @@
-<h2>Daniel Marques - Software Engineer building beautiful things on the Frontend.</h2>
+# Daniel Marques - Software Engineer building beautiful things on the Frontend
 ======================================================================================================================================
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.dlmarques.com/)
