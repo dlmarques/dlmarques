@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <h2>Daniel Marques - Software Engineer building beautiful things on the Frontend.</h2>
+<h2>Daniel Marques - Software Engineer building beautiful things on the Frontend.</h2>
 ======================================================================================================================================
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.dlmarques.com/)
