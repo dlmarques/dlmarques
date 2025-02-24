@@ -1,8 +1,6 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Daniel Marques - Software Engineer building beautiful things on the Frontend.
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <h2>Daniel Marques - Software Engineer building beautiful things on the Frontend.</h2>
 ======================================================================================================================================
 
-Frontend Engineer
------------------
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.dlmarques.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dlmarques/)
 [![Email Badge](https://img.shields.io/badge/-Email-4d0087?style=for-the-badge&logo=protonmail&cacheSeconds=3600&link=mailto:daniel.marquesedigital@gmail.com)](mailto:daniel.marquesedigital@gmail.com)
