@@ -11,7 +11,8 @@
 *   ✉️  You can contact me at [my email](mailto:daniel.marquesedigital@gmail.com)
    
 * ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,nodejs,express,mongodb,postgres,mysql,git,github,redux,vite,webpack,npm,aws,postman,jest,androidstudio,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,webpack,html,css,figma,  
+nodejs,express,postgres,mysql,mongodb,aws,git,github,npm,postman,jest,androidstudio)](https://skillicons.dev)
 
 **Web/Full Stack projects**
 
