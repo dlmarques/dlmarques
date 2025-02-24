@@ -1,7 +1,3 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
-
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Daniel Marques
 ======================================================================================================================================
 
@@ -47,8 +43,3 @@ Frontend Engineer
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/dlmarques/dlmarques.com)
 [![Omenia](https://img.shields.io/badge/-🔧&nbsp;&nbsp;Omenia-000000?style=flat)](https://github.com/dlmarques/omenia)
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/dlmarques"><img src="https://github-readme-stats.vercel.app/api?username=dlmarques&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dlmarques's GitHub stats" /></a>
-
