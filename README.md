@@ -16,7 +16,7 @@
 ### Studying
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow)](https://skillicons.dev)
 
-**Side Projects**
+### Side Projects
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/dlmarques/dlmarques.com)
 [![RentNexis](https://img.shields.io/badge/-🏠&nbsp;&nbsp;RentNexis-000000?style=flat)](https://github.com/dlmarques/rentnexis-webapp)
